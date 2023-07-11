@@ -1,5 +1,15 @@
 # @effect/io
 
+## 0.32.0
+
+### Minor Changes
+
+- [#519](https://github.com/Effect-TS/io/pull/519) [`8798392`](https://github.com/Effect-TS/io/commit/8798392a6f74cb0dcdfac6f98551365a5889f86a) Thanks [@tim-smart](https://github.com/tim-smart)! - rename contramap apis to mapInput
+
+- [#515](https://github.com/Effect-TS/io/pull/515) [`9db31a7`](https://github.com/Effect-TS/io/commit/9db31a73b781a899834c8b931e7239b30f30cbd6) Thanks [@tim-smart](https://github.com/tim-smart)! - update usage of Pipeable trait
+
+- [#516](https://github.com/Effect-TS/io/pull/516) [`fd81342`](https://github.com/Effect-TS/io/commit/fd813425423fd72afdbfef558a478b1a9a50c423) Thanks [@mikearnaldi](https://github.com/mikearnaldi)! - Separate batching from concurrency, avoid region contamination
+
 ## 0.31.4
 
 ### Patch Changes
